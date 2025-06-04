@@ -1,4 +1,4 @@
-# EX-2-prompt-engineering-Comparative Analysis of different types of Prompting patterns and explain with Various Test scenerios
+# EX-5-prompt-engineering-Comparative Analysis of different types of Prompting patterns and explain with Various Test scenerios
 
 ### Aim:
 To test how ChatGPT responds to naïve prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios, analyzing the quality, accuracy, and depth of the generated responses.
